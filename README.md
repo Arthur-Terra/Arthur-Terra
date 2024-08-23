@@ -1,3 +1,5 @@
+![logo](https://github.com/Arthur-Terra/Arthur-Terra/blob/main/senai-logo-3.png)
+
 Aqui você pode encontar algumas informações sobre mim :
 
 - Nome: Arthur Terra Rocha
