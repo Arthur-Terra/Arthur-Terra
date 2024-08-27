@@ -16,3 +16,5 @@ Aqui você pode encontar algumas informações sobre mim :
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
 </div>
+
+[![Arthur-Terra GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Terra)](https://github.com/Arthur-Terra/github-readme-stats)
