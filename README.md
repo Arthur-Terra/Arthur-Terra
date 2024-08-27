@@ -6,7 +6,6 @@ Aqui você pode encontar algumas informações sobre mim :
 - Idade: 16
 - Escolaridade: Cursando o ensino médio
 - Estudando: Desenvolvimento de Sistemas
-- Linguangens de Programação: C
 - ...
 - <a href="https://github.com/Arthur-Terra/Arthur-Terra/blob/main/Profile%20(2).pdf" class="nav-link">**curriculo**</a>
 -
